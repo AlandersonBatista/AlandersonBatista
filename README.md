@@ -30,80 +30,19 @@ Minha jornada na programação começou pela necessidade de criar soluções par
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-
-  <!-- Python -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      Python
-    </span>
-  </span>
-
-  <!-- VB.NET -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      VB.NET
-    </span>
-  </span>
-
-  <!-- SQLite -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQLite" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      SQLite
-    </span>
-  </span>
-
-  <!-- Excel -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg" alt="Excel" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      Excel
-    </span>
-  </span>
-
-  <!-- Git -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      Git
-    </span>
-  </span>
-
-  <!-- JavaScript -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      JavaScript
-    </span>
-  </span>
-
-  <!-- Bootstrap -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      Bootstrap
-    </span>
-  </span>
-
-  <!-- HTML5 -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      HTML5
-    </span>
-  </span>
-
-  <!-- CSS3 -->
-  <span style="position: relative; display: inline-block; margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-    <span style="visibility:hidden; background:#333; color:#fff; text-align:center; padding:5px 8px; border-radius:6px; position:absolute; bottom:110%; left:50%; transform:translateX(-50%); opacity:0; transition:opacity 0.3s; font-size:12px; white-space:nowrap;">
-      CSS3
-    </span>
-  </span>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="VB.NET" width="50" height="50" title="VB.NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain-wordmark.svg" alt="SQLite" width="50" height="50" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg" alt="Excel" width="50" height="50" title="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/powerbi.svg" alt="Power BI" width="50" height="50" title="Power BI"/>
 </p>
+
+
 
 
 
