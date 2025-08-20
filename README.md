@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo!
 
-<!--
-**AlandersonBatista/AlandersonBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Alanderson**, sou Coordenador de Laboratório em uma multinacional.  
+Minha jornada na programação começou pela necessidade de criar soluções para o dia a dia no laboratório — e descobri uma verdadeira paixão por **automatizar processos** e **resolver problemas de forma eficiente**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 👨‍🔬 Coordenador de Laboratório Químico (6 subáreas técnicas)  
+- 🐍 Desenvolvedor em **Python** com foco em automação de rotinas e tratamento de dados  
+- 💻 Experiência em **VB.NET**, **SQLite** e integração de sistemas internos  
+- 📊 Apaixonado por **otimização de processos**, estatística e análise de dados  
+
+---
+
+## 🔗 Meu LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Alanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+
+---
+
+✍️ *“Transformando problemas complexos em soluções simples e eficazes.”*
