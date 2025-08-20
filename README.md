@@ -28,8 +28,8 @@ Minha jornada na programação começou pela necessidade de criar soluções par
 ---
 
 ## 📊 Estatísticas do GitHub
-![Alanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+![Alanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlandersonBatista&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlandersonBatista&layout=compact&theme=dracula)
 
 ---
 
