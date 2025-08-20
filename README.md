@@ -13,8 +13,18 @@ Minha jornada na programação começou pela necessidade de criar soluções par
 
 ---
 
-## 🔗 Meu LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)
+### 🌐 Contatos
+<p align="left">
+  <a href="https://www.linkedin.com/in/alanderson-batista-22375642/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" height="40"/>
+  </a>
+  <a href="mailto:Alanderson.c@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/AlandersonBatista" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
